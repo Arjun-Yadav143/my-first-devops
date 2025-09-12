@@ -1,2 +1,2 @@
-# my-first-devops
-My first DevOps practice repo
+# My First DevOps Repo
+This is my first practice repository for learning DevOps 🚀
